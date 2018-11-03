@@ -1,4 +1,4 @@
-
+# commit inicial
 # masteruah
 # kikote71
 # Creo que se refiere a estos comandos, que son los que he usado para instalar el repositorio
