@@ -1,8 +1,7 @@
-# kikote71
-# kikote71
-# masteruah
-# kikote4
 
+# masteruah
+# kikote71
+# Creo que se refiere a estos comandos, que son los que he usado para instalar el repositorio
 # echo "# masteruah" >> README.md
 # git init
 # git add README.md
