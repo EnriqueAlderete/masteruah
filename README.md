@@ -1,12 +1,15 @@
 # commit inicial
 # masteruah
 #
+# *NOMBRE* | *GITHUB* |
+#| -------- | -------- |
+#| Sergio Avilés Pastor | [Enlace a GitHub 2](https://github.com/sergioaviles) |
+#| Albert Porres Vallés | [Enlace a GitHub 3](https://github.com/AlbertPorres) |
+#| Beatriz Casado Rodríguez | [Enlace a GitHub 4](https://github.com/BCRMaster) |
+#| Jose Molina Colmenero | [Enlace a GitHub 5](https://github.com/Moliholy) |
+#| Jesús Alberto Leal Pérez | [Enlace a GitHub 6](https://github.com/lealp22) |
+ 
 
-# User      |    repository    |     URL
------     |    ----------    |     ---
-jpinto7   |    masteruah     |   https://github.com/jpinto7/masteruah
-evamuhe   |    masteruah     |   https://github.com/evamuhe/masteruah
-LourdesRD |    masteruah     |   https://github.com/LourdesRD/masteruah
 
 # Creo que se refiere a estos comandos, que son los que he usado para instalar el repositorio
 # echo "# masteruah" >> README.md
