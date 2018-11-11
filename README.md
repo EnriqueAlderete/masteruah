@@ -1,6 +1,6 @@
-# commit inicial
+# Commit inicial
 # masteruah
-#
+
 | *NOMBRE* | *GITHUB* |
 | -------- | -------- |
 | Sergio Avilés Pastor | [Enlace a GitHub 2](https://github.com/sergioaviles) |
@@ -11,10 +11,10 @@
  
 
 
-# Creo que se refiere a estos comandos, que son los que he usado para instalar el repositorio
-# echo "# masteruah" >> README.md
-# git init
-# git add README.md
-# git commit -m "first commit"
-# git remote add origin git@github.com:EnriqueAlderete/masteruah.git
-# git push -u origin master
+ Creo que se refiere a estos comandos, que son los que he usado para instalar el repositorio
+ echo "# masteruah" >> README.md
+ git init
+ git add README.md
+ git commit -m "first commit"
+ git remote add origin git@github.com:EnriqueAlderete/masteruah.git
+ git push -u origin master
