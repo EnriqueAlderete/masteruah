@@ -1,7 +1,7 @@
 # commit inicial
 # masteruah
 #
-# *NOMBRE* | *GITHUB* |
+#| *NOMBRE* | *GITHUB* |
 #| -------- | -------- |
 #| Sergio Avilés Pastor | [Enlace a GitHub 2](https://github.com/sergioaviles) |
 #| Albert Porres Vallés | [Enlace a GitHub 3](https://github.com/AlbertPorres) |
